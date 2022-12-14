@@ -1,4 +1,4 @@
 # Telegram data analysis
-This is a university project, which I did using [this](https://github.com/SanGreel/telegram-data-collection) repository, provided by our teacher. The goal of this project is to start understanding how to analyse a dataset by analysing out Telegram data. You can also find my presentation on this project in this repository.
+This is a university project, which I did using [this](https://github.com/SanGreel/telegram-data-collection) repository, provided by our teacher. The goal of this project is to start understanding how to analyse a dataset by analysing our Telegram data. You can also find my presentation on this project in this repository.
 ## How to reuse it?
 You can go to [this](https://github.com/SanGreel/telegram-data-collection) repository and follow the instructions in the README.md file. You should know that the process of downloading your data might take more than one day. It also works when your computer is in the sleeping mode. Please notice that the commands provided in that repository are for MacOS and you have to change them a bit if you have Windows. Everything else is up to you!
